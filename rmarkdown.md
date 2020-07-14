@@ -73,4 +73,4 @@ carregamos os pacotes, surgiram diversas mensagens que não são
 Para gerar um documento em markdown que seja exibido no github, é
 necessário especificar o argumento output da seguinte maneira:
 
-\`\`\` output:
+    output: github_document
